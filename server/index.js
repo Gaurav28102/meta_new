@@ -7,10 +7,10 @@ const app = express()
 
 app.use(cors())
 app.use(express.json())
-app.use(express.urlencoded({extended: true}));
+app.use(express.urlencoded({ extended: true }));
 app.use('/', Router)
 
-mongoose.connect("mongodb://localhost:27017/Forms-Practice")
+mongoose.connect("mongodb+srv://Hrishabh:RockOn02@cluster0.nocdqiv.mongodb.net/test")
 
 
 app.listen(8000, () => {
