@@ -147,7 +147,7 @@ const ProfileNew = () => {
 
                             <p>Account Number: {accountId}</p>
                             <p>Balance : {balance}</p>
-                            <p>Fixed Deposit: {fd}</p>
+                            {/* <p>Fixed Deposit: {fd}</p> */}
                             
                            
                         </div>

@@ -15,9 +15,9 @@ return (
 				textAlign: "center",
 				marginTop: "-60px",
                 marginBottom: "25px" }}>
-		ABC Bank: The hassle free bank
+		MetaTransfer
 	</h1>
-	<Container>
+	{/* <Container>
 		<Row>
 		<Column>
 			<Heading>About Us</Heading>
@@ -62,8 +62,8 @@ return (
 			</FooterLink>
 		</Column>
 		</Row>
-	</Container>
-    <h6 style={{color: "white"}}>@ABCBank.community</h6>
+	</Container> */}
+    <h6 style={{color: "white"}}>@MetaTransfer</h6>
 	</Box>
 );
 };

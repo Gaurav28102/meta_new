@@ -43,7 +43,7 @@ const Deposit = () => {
         <div>
             <NavBarLoggedIn />
             <div className="bghdep">
-                <h1>The Hassle Free Bank Deposit</h1>
+                <h1>MetaTransfer Bank Deposit</h1>
                 <div className="leftc">
                     <h3>Deposit Form</h3>
                     <>

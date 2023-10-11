@@ -18,17 +18,17 @@ const NavBarLoggedIn = () => {
         text: 'Your Transactions',
         link: '/transactions'
       },
-      {
-        text: 'Fixed Deposit',
-        link: '/fixeddeposit'
-      },
+      // {
+      //   text: 'Fixed Deposit',
+      //   link: '/fixeddeposit'
+      // },
       {
         text: 'Logout',
         link: '/'
       }
     ],
     logo: {
-      text: 'THF Bank',
+      text: 'MetaTransfer ',
       link: '/'
     },
     style: {

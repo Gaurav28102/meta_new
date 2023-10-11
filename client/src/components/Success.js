@@ -15,11 +15,11 @@ const Success = () => {
                         <Alert.Heading>Hey, nice to see you</Alert.Heading>
                         <p>
                             Your transaction was successful. Thank you for choosing us as your banking partner. We are pleased to serve you and your financial needs.
-                            ABC bank thanks you for your patience.
+                            We thank you for your patience.
                     </p>
                         <hr />
                         <p className="mb-0">
-                            For further details and queries, contact us at www.ABCBank@gmail.com
+                            For further details and queries, contact us at www.metatransferbank@gmail.com
                     </p>
                     </Alert>
                 </div>

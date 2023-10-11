@@ -20,7 +20,7 @@ const NavBar = () => {
       }
     ],
     logo: {
-      text: 'THF Bank',
+      text: 'MetaTransfer',
       link: '/'
     },
     style: {

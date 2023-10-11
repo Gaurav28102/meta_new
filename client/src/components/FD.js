@@ -38,7 +38,7 @@ const FD = () => {
         <div>
             <NavBarLoggedIn />
             <div className="bghfd">
-                <h1>The hassle free bank Fixed Deposit</h1>
+                <h1>MetaTransfer Bank Fixed Deposit</h1>
                 <div className="leftc">
                     <h3>Fixed Deposit (FD) Form</h3>
                     <>

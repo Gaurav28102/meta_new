@@ -8,10 +8,9 @@ const Content = () => {
         <ContentStyle>
             <div className="content">
                 <div className="left">
-                    <SmallHead title={"The Hassle Free Bank"} identifier={'Before'}/>
+                    <SmallHead title={"The Future of Banking "} identifier={'Before'}/>
                     <h1>
-                        We offer the best services to our customers from the convenience of their homes.
-                        An one stop website for everything banking
+                      We offer secure and fast money transfer services with Peer to Peer transactions
                     </h1>
                     <p>
                         Just register yourself and gain access to features like transferring funds, depositing money and creating fixed deposits 

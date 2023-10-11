@@ -10,7 +10,9 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
 app.use('/', Router)
 
-mongoose.connect("mongodb+srv://Hrishabh:RockOn02@cluster0.nocdqiv.mongodb.net/test")
+mongoose.connect("mongodb+srv://admin:admin123@cluster0.s2gtnmo.mongodb.net/?retryWrites=true&w=majority").then((db)=>{
+    console.log("Database connected");
+})
 
 
 app.listen(8000, () => {
