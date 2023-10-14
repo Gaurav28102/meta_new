@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/', Router)
 
 mongoose.connect("mongodb+srv://admin:admin123@cluster0.s2gtnmo.mongodb.net/?retryWrites=true&w=majority").then((db)=>{
-    console.log("Database connected");
+    console.log("Database connected....");
 })
 
 
